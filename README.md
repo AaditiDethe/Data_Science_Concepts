@@ -14,5 +14,5 @@
    Algorithms: Linear regression, classification, clustering, etc.
 
 5. Real-World Projects:
-   Sentiment Analysis.
+   Sentiment Analysis,
    Predictive Analytics.
