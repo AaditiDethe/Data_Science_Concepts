@@ -29,3 +29,6 @@
 7. Real-World Projects:
    Sentiment Analysis,
    Predictive Analytics.
+
+8. Tools Used:
+   Spyder, Jupyter_Notebook.
