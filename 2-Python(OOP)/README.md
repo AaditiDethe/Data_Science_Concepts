@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) in Python:
+# Object-Oriented Programming (OOP) in Python
 
 This document explains the fundamental concepts of Object-Oriented Programming (OOP) in Python with examples.
 
