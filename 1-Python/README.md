@@ -5,58 +5,58 @@ Contents
 
 1. String
 
-Basics of string manipulation
+   ->Basics of string manipulation
 
-String methods and formatting
+   ->String methods and formatting
 
-Handling special characters
+   ->Handling special characters
 
 2. List
 
-List operations (indexing, slicing, modifying)
+   ->List operations (indexing, slicing, modifying)
 
-Common list methods
+   ->Common list methods
 
-Nested lists
+   ->Nested lists
 
 3. List Comprehension
 
-Efficient list creation
+   ->Efficient list creation
 
-Conditional list comprehension
+   ->Conditional list comprehension
 
-Using functions within list comprehensions
+   ->Using functions within list comprehensions
 
 4. Decorators
 
-Understanding function decorators
+   ->Understanding function decorators
 
-Creating custom decorators
+   ->Creating custom decorators
 
-Practical use cases in Python
+   ->Practical use cases in Python
 
 5. Generator
 
-Difference between generators and lists
+   ->Difference between generators and lists
 
-Yield keyword and lazy evaluation
+   ->Yield keyword and lazy evaluation
 
-Performance benefits of generators
+   ->Performance benefits of generators
 
 6. Exception Handling
 
-Try-except blocks
+   ->Try-except blocks
 
-Handling multiple exceptions
+   ->Handling multiple exceptions
 
-Custom exceptions
+   ->Custom exceptions
 
 7. Problem Solving
 
-Hands-on coding problems
+   ->Hands-on coding problems
 
-Optimized solutions using Python
+   ->Optimized solutions using Python
 
-Best practices for writing clean and efficient code
+   ->Best practices for writing clean and efficient code
 
 
