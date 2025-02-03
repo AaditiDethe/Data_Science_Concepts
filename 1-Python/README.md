@@ -1,4 +1,4 @@
-# Basic Python for Data Science:
+# Basic Python for Data Science
 This repository contains fundamental Python concepts essential for data science. Each topic is explained with examples and best practices.
 
 Contents
