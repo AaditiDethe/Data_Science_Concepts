@@ -4,7 +4,7 @@ This repository contains fundamental concepts and techniques of Natural Language
 
 Contents
 
-   ->1. Introduction to NLP
+1. Introduction to NLP
 
    ->Overview of NLP and its applications
 
