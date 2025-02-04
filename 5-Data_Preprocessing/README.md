@@ -38,6 +38,7 @@ Data preprocessing is a crucial step in the data analysis and machine learning p
    -> Check Missing Values
    
    -> Handle Missing Values
+   
        a. Mean Imputation (Numerical Data)
    
        b. Median Imputation ( For Numerical Data with Outliers)
