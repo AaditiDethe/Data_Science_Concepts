@@ -2,7 +2,7 @@
 
 This folder includes essential techniques for clustering, an unsupervised machine learning method used to group similar data points. The document covers two primary clustering techniques: Hierarchical Clustering and K-Means Clustering.
 
-### Hierarchical Clustering (Agglomerative)
+### 1. Hierarchical Clustering (Agglomerative)
 Hierarchical clustering builds a hierarchy of clusters without requiring a predefined number of clusters. The key steps include:
 
    a. Loading Data: Import and read the dataset.
@@ -30,7 +30,7 @@ Hierarchical clustering builds a hierarchy of clusters without requiring a prede
          Compute mean values for each cluster to interpret patterns.
 
 
-### K-Means Clustering
+### 2. K-Means Clustering
 K-Means clustering partitions data into K clusters, where each data point belongs to the cluster with the nearest mean.
 
    a. Loading Data: Import and inspect the dataset.
@@ -61,7 +61,7 @@ K-Means clustering partitions data into K clusters, where each data point belong
    
          Mark centroids to identify cluster centers.
 
-### Understanding K-Means Behavior
+### 3. Understanding K-Means Behavior
    
    a. Random Data Generation: Create a synthetic dataset to demonstrate how K-Means clustering works.
    
