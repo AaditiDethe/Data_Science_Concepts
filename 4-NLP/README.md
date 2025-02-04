@@ -52,6 +52,6 @@ Contents
 
 8. NLP Libraries
 
-  ->NLTK, spaCy
+     ->NLTK, spaCy
 
-  ->Comparing NLP tools for different tasks
+     ->Comparing NLP tools for different tasks
