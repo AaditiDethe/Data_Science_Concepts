@@ -1,6 +1,6 @@
 # Recommendation System
 
-This folder contains implementations of different recommendation system techniques, including Association Rule Mining, Content-Based Filtering, and Collaborative Filtering.
+This folder contains implementations of different recommendation system techniques, including Association Rule Mining, Content-Based Filtering and Collaborative Filtering.
 
 ### 1.Association Rules
    Implementation Steps:
