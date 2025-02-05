@@ -37,3 +37,41 @@ This folder contains implementations of different recommendation system techniqu
       -> Suggesting similar movies based on genre.
 
       -> Recommending TV shows based on past preferences.
+
+### 3. Game Recommendation (Collaborative Filtering)
+   Implementation Steps:
+
+      -> Load dataset containing user-game ratings.
+
+      -> Create a user-item matrix where rows represent users and columns represent games.
+
+      -> Fill missing values (assume unrated games as 0).
+
+      -> Compute cosine similarity between users.
+
+      -> Generate recommendations by aggregating ratings from similar users.
+
+   Example Use Cases:
+
+      -> Recommending video games based on user preferences.
+
+      -> Suggesting games to new users based on similar user behaviors.
+
+   How to Run
+
+      -> Install required libraries: pip install pandas numpy sklearn mlxtend
+
+      -> Run the respective scripts based on the recommendation type:
+      python association_rules.py
+      python entertainment_recommendation.py
+      python game_recommendation.py
+
+   Dependencies
+
+      -> pandas for data manipulation.
+
+      -> numpy for numerical operations.
+
+      -> mlxtend for implementing the Apriori algorithm.
+
+      -> sklearn for TF-IDF vectorization and cosine similarity computation.
