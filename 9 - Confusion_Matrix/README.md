@@ -2,7 +2,7 @@
 
 A Confusion Matrix is a performance measurement tool used to evaluate the accuracy of a classification algorithm. It provides a summary of the prediction results by comparing the actual labels with the predicted labels.
 
-Key Metrics Derived from the Confusion Matrix
+### Key Metrics Derived from the Confusion Matrix
 
    Accuracy: Measures overall correctness of the model.
       (TP+TN)/(TP+TN+FP+FN)
