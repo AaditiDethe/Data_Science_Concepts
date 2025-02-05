@@ -30,7 +30,7 @@ This folder contains implementations of different recommendation system techniqu
 
       -> Compute cosine similarity between different titles.
 
-     -> Retrieve and recommend top-N similar items based on a given title.
+      -> Retrieve and recommend top-N similar items based on a given title.
 
    Example Use Cases:
 
